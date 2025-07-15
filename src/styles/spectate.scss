@@ -145,11 +145,11 @@ b {
 @media (max-width: 500px) {
   .cover-hed header {
     margin-top: 50%;
-    transform: translateY(-160%);
+    transform: translateY(-180%);
   }  
 }
 
-@media (max-width: 400px) {
+@media (max-width: 330px) {
   .cover-hed header {
     margin-top: 50%;
     transform: translateY(-150%);
