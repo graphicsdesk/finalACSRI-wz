@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "finalACSRI-wz",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -31,10 +31,10 @@
     "arrowParens": "avoid"
   },
   "spectate": {
-    "USE_NEWS_NAV": true,
-    "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_NEWS_NAV": false,
+    "USE_EYE_NAV": true,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1a8iWp3gqNXxnt4KxY_as36Zq_6p5dLyR7O_BIgsAifg/edit?usp=sharing"
   }
 }
