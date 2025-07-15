@@ -595,18 +595,6 @@
             }
           },
           {
-            "type": "graphic",
-            "value": {
-              "asset": "acsri4.html"
-            }
-          },
-          {
-            "type": "graphic",
-            "value": {
-              "asset": "acsri5.html"
-            }
-          },
-          {
             "type": "text",
             "value": "As of July 14, the ACSRI has not publicly released its responses to the three 2024 proposals. The proposals have been discussed in meetings this year, and members of the ACSRI split into three subcommittees to discuss each of the three proposals."
           },
